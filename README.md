@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/pawanmartha8816/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pawanmartha8816/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Prefix Sum
 |  |
