@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pawanmartha8816/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/pawanmartha8816/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pawanmartha8816/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pawanmartha8816/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pawanmartha8816/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pawanmartha8816/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Prefix Sum
 |  |
