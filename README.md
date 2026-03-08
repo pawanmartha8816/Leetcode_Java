@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/pawanmartha8816/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/pawanmartha8816/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/pawanmartha8816/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0507-perfect-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pawanmartha8816/Leetcode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/pawanmartha8816/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pawanmartha8816/Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/pawanmartha8816/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pawanmartha8816/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Bit Manipulation
