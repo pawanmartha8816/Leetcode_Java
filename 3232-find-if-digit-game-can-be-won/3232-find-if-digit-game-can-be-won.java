@@ -9,7 +9,7 @@ class Solution {
                 b+=i;
             }
         }
-        if(a!=b) return true;
-        return false;
+        if(a==b) return false;
+        return true;
     }
 }
