@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/pawanmartha8816/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pawanmartha8816/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/pawanmartha8816/Leetcode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/pawanmartha8816/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pawanmartha8816/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/3701-compute-alternating-sum) |
