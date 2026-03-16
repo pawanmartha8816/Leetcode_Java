@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/pawanmartha8816/Leetcode/tree/master/1952-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/pawanmartha8816/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pawanmartha8816/Leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/pawanmartha8816/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/pawanmartha8816/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pawanmartha8816/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Bit Manipulation
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/pawanmartha8816/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/pawanmartha8816/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Recursion
 |  |
