@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/pawanmartha8816/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/pawanmartha8816/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pawanmartha8816/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/pawanmartha8816/Leetcode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/pawanmartha8816/Leetcode/tree/master/0709-to-lower-case) |
+| [2351-first-letter-to-appear-twice](https://github.com/pawanmartha8816/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/pawanmartha8816/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pawanmartha8816/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Stack
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pawanmartha8816/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/pawanmartha8816/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pawanmartha8816/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pawanmartha8816/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3842-toggle-light-bulbs](https://github.com/pawanmartha8816/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/pawanmartha8816/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/pawanmartha8816/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pawanmartha8816/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pawanmartha8816/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
