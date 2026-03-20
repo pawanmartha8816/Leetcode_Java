@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/0001-two-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pawanmartha8816/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pawanmartha8816/Leetcode/tree/master/0283-move-zeroes) |
@@ -188,9 +189,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pawanmartha8816/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/pawanmartha8816/Leetcode/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/pawanmartha8816/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pawanmartha8816/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
