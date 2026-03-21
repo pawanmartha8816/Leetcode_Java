@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pawanmartha8816/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pawanmartha8816/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/pawanmartha8816/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pawanmartha8816/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pawanmartha8816/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/pawanmartha8816/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/pawanmartha8816/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/pawanmartha8816/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pawanmartha8816/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/pawanmartha8816/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/pawanmartha8816/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
