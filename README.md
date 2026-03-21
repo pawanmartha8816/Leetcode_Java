@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pawanmartha8816/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pawanmartha8816/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanmartha8816/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pawanmartha8816/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -172,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pawanmartha8816/Leetcode/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanmartha8816/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pawanmartha8816/Leetcode/tree/master/0283-move-zeroes) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanmartha8816/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
