@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/pawanmartha8816/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/pawanmartha8816/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pawanmartha8816/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0507-perfect-number) |
