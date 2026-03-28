@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pawanmartha8816/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pawanmartha8816/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pawanmartha8816/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/pawanmartha8816/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pawanmartha8816/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanmartha8816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/pawanmartha8816/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
