@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pawanmartha8816/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanmartha8816/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/pawanmartha8816/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/pawanmartha8816/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pawanmartha8816/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/pawanmartha8816/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/pawanmartha8816/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pawanmartha8816/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pawanmartha8816/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanmartha8816/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pawanmartha8816/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanmartha8816/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pawanmartha8816/Leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
