@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pawanmartha8816/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/pawanmartha8816/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pawanmartha8816/Leetcode/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/pawanmartha8816/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/pawanmartha8816/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/pawanmartha8816/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/pawanmartha8816/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
