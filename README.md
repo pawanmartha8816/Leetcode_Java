@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pawanmartha8816/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pawanmartha8816/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pawanmartha8816/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
