@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/pawanmartha8816/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pawanmartha8816/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/pawanmartha8816/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pawanmartha8816/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
