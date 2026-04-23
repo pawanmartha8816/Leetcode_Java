@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/pawanmartha8816/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pawanmartha8816/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/pawanmartha8816/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/pawanmartha8816/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pawanmartha8816/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pawanmartha8816/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pawanmartha8816/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/pawanmartha8816/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3842-toggle-light-bulbs](https://github.com/pawanmartha8816/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Number Theory
 |  |
