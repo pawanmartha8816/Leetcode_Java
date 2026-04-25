@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pawanmartha8816/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/pawanmartha8816/Leetcode/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/pawanmartha8816/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/pawanmartha8816/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pawanmartha8816/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/pawanmartha8816/Leetcode/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/pawanmartha8816/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/pawanmartha8816/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Recursion
