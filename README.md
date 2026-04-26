@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pawanmartha8816/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pawanmartha8816/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pawanmartha8816/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawanmartha8816/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pawanmartha8816/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/pawanmartha8816/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/pawanmartha8816/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pawanmartha8816/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/pawanmartha8816/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/pawanmartha8816/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pawanmartha8816/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/pawanmartha8816/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pawanmartha8816/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
