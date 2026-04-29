@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pawanmartha8816/Leetcode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/pawanmartha8816/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/pawanmartha8816/Leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pawanmartha8816/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0136-single-number) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/pawanmartha8816/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanmartha8816/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pawanmartha8816/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pawanmartha8816/Leetcode/tree/master/0268-missing-number) |
