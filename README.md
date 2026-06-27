@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pawanmartha8816/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pawanmartha8816/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pawanmartha8816/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pawanmartha8816/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanmartha8816/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pawanmartha8816/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/pawanmartha8816/Leetcode/tree/master/1534-count-good-triplets) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pawanmartha8816/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pawanmartha8816/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Math
 |  |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pawanmartha8816/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pawanmartha8816/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
